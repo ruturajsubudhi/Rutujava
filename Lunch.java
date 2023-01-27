@@ -1,10 +1,10 @@
 class Lunch{
 void m1()
 {
-//some code
+System.out.println("Hello java lovers")
 }
 void m2()
 {
-//some code
+System.out.println("Hello java lovers")
 }
 }
